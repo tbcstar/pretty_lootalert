@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## Title: |cff00ffff*|r |cfffff0f5战利品通知|r
-## Notes: |cff00ffff 战利品警报|r 来自 |cfffff0f5TBCstar|r
-## Version: 1.0b
-## Author: s0h2x
+## Notes: |cffcaf7faLoot toast addon from pretty stuff|r
+## Notes-zhCN: |cffcaf7faTBCstar战利品警报|r
+## Version: 2.0
+## Author: s0high
 
-core.lua
 pretty_lootalert.xml
